@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:FF6B35&height=220&section=header&text=SARVESH%20T&fontSize=46&fontColor=E6EDF3&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Building%20Agentic%20AI%20Systems&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:FF6B35&height=220&section=header&text=SARVESH%20T&fontSize=46&fontColor=E6EDF3&fontAlign=50&fontAlignY=35&desc=AI%20and%20Data%20Engineer%20-%20Building%20Agentic%20AI%20Systems&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B35&background=0D1117FF&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Sarvesh+T+-+Software+Engineer+%7C+AI+%26+Data;%24+stack+--list;%3E+Python+-+React+-+Node.js+-+OCI+-+ML;%24+status;%3E+Building+Agentic+AI+systems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%24+whoami;Sarvesh+T+-+Software+Engineer+-+AI+and+Data;%24+stack+--list;Python+-+React+-+Node.js+-+OCI+-+ML;%24+status;Building+Agentic+AI+systems...)](https://git.io/typing-svg)
 
 ![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
 ![University](https://img.shields.io/badge/Saveetha%20School%20of%20Engineering-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)

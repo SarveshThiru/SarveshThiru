@@ -116,21 +116,15 @@ OPEN_TO   = ["Software Engineer", "Software Developer", "AI Engineer", "ML Engin
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SarveshThiru&show_icons=true&title_color=FF6B35&icon_color=FFB627&text_color=E6EDF3&bg_color=0D1117&border_color=FF6B35)
+![Stats](https://raw.githubusercontent.com/SarveshThiru/SarveshThiru/main/profile/stats.svg)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarveshThiru&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFB627&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E&border=FF6B35)
+![Streak](https://raw.githubusercontent.com/SarveshThiru/SarveshThiru/main/profile/streak.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshThiru&layout=compact&title_color=FF6B35&text_color=E6EDF3&bg_color=0D1117&border_color=FF6B35)
-
-</div>
-
-### `$ ./show-trophies`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SarveshThiru&column=7&row=1&title_color=FF6B35&icon_color=FFB627&text_color=E6EDF3&background=0D1117&border_radius=8)
+![Top Langs](https://raw.githubusercontent.com/SarveshThiru/SarveshThiru/main/profile/top-langs.svg)
 
 </div>
+
+*Self-hosted via GitHub Actions — regenerated daily, no external service dependency.*
 
 ### `$ plot activity_graph.svg`
 

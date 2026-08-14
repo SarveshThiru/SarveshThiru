@@ -42,6 +42,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy
+        id: trophy
+        continue-on-error: true
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: SarveshThiru
@@ -49,6 +51,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
